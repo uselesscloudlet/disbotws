@@ -15,10 +15,11 @@
             <artifactId>JDA</artifactId>
             <version>4.BETA.0_20</version>
         </dependency>
+             
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>8.0.15</version>
+            <version>[8.0.16,)</version>
         </dependency>
 
         <dependency>
